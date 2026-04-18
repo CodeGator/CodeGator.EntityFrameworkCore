@@ -1,7 +1,7 @@
-## CodeGator: 
+## CodeGator.EntityFrameworkCore: 
 ---
 
-[![Build Status](https://dev.azure.com/codegator/CodeGator/_apis/build/status%2FCodeGator.CodeGator?branchName=main)](https://dev.azure.com/codegator/CodeGator/_build/latest?definitionId=110&branchName=main)
+[![Build Status](https://dev.azure.com/codegator/CodeGator.EntityFrameworkCore/_apis/build/status%2FCodeGator.CodeGator.EntityFrameworkCore?branchName=main)](https://dev.azure.com/codegator/CodeGator.EntityFrameworkCore/_build/latest?definitionId=129&branchName=main)
 
 ![NuGet Version](https://img.shields.io/nuget/v/CodeGator.EntityFrameworkCore)
 

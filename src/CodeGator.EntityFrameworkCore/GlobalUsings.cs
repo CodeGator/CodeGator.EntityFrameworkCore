@@ -1,0 +1,12 @@
+global using CodeGator.EntityFrameworkCore.Interceptors.Audit;
+global using CodeGator.EntityFrameworkCore.Contracts;
+global using CodeGator.EntityFrameworkCore.Entities;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Diagnostics;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using System.ComponentModel.DataAnnotations;
+global using System.Data;
+global using System.Diagnostics.CodeAnalysis;
+global using System.Security.Claims;
